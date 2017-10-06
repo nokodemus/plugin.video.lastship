@@ -1,5 +1,6 @@
-[B]Nightly[/B]
+[B]1.2.2~beta1[/B]
 - Fix PLocker
+- Add theXem integration
 
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls
