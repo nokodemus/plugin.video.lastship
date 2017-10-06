@@ -1,3 +1,6 @@
+[B]Nightly[/B]
+- Fix PLocker
+
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls
 - Encrypt calls to YouTube and Trakt API by SSL/TLS
