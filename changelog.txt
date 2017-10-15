@@ -1,8 +1,9 @@
-[B]1.2.2~beta2[/B]
+[B]1.2.2~beta4[/B]
 - Fix PLocker
 - Add theXem integration
 - Tweak Foxx provider
 - Add Progress sort order setting
+- Update provider ReleaseBB
 
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls
