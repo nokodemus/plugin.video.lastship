@@ -2,6 +2,7 @@
 - Fix PLocker
 - Add theXem integration
 - Tweak Foxx provider
+- Add Progress sort order setting
 
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls

@@ -851,3 +851,15 @@ msgstr "[I]Persönliche API-Keys ermöglichen kürzere Antwortzeiten.[/I]"
 msgctxt "#32583"
 msgid "[I]Become a VIP member at [/I] https://fanart.tv/vip [I]for many benefits.[/I]"
 msgstr "[I]Bei [/I] https://fanart.tv/vip [I]können Sie sich als VIP-Mitglied registrieren.[/I]"
+
+msgctxt "#32584"
+msgid "Sort order for Trakt Watched Progress"
+msgstr "Trakt-Fortschritt sortieren nach"
+
+msgctxt "#32585"
+msgid "Recently aired"
+msgstr "kürzlich gesendet"
+
+msgctxt "#32586"
+msgid "Recently watched"
+msgstr "zuletzt gesehen"
