@@ -1,6 +1,7 @@
-[B]1.2.2~beta1[/B]
+[B]1.2.2~beta2[/B]
 - Fix PLocker
 - Add theXem integration
+- Tweak Foxx provider
 
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls
