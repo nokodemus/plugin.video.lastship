@@ -1,9 +1,10 @@
-[B]1.2.2~beta4[/B]
+[B]1.2.2~beta5[/B]
 - Fix PLocker, MyVideoLink, CMovies and PubFilmTo
 - Add theXem integration
 - Tweak Foxx provider
 - Add Progress sort order setting
 - Update provider ReleaseBB
+- Tweak display of premium links
 
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls

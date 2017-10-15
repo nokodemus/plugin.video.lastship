@@ -649,11 +649,11 @@ class sources:
             try: d = self.sources[i]['debrid']
             except: d = self.sources[i]['debrid'] = ''
 
-            if not d == '': label = '%02d | [B]%s[/B] | ' % (int(i+1), d)
-            #if not d == '': label = '%02d | [B]%s[/B] | [B]%s[/B] | ' % (int(i+1), p, d)
-            else: label = '%02d | [B]%s[/B] | ' % (int(i+1), p)
+            #if not d == '': label = '%02d | [B]%s[/B] | ' % (int(i+1), d)
+            if not d == '': label = '%02d | [B]%s[/B] (%s) | ' % (int(i+1), d, p)
+            else: label = '%02d | %s | ' % (int(i+1), p)
 
-            if multi == True and not l == 'en': label += '[B]%s[/B] | ' % l
+            if multi == True and not l == 'de': label += '[B]%s[/B] | ' % l
 
             if q in ['4K', '1440p', '1080p', 'HD']: label += '%s | [B][I]%s [/I][/B] | %s' % (s, q, f)
             elif q == 'SD': label += '%s | %s' % (s, f)
