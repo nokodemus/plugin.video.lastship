@@ -1,5 +1,5 @@
 [B]1.2.2~beta4[/B]
-- Fix PLocker, MyVideoLink and PubFilmTo
+- Fix PLocker, MyVideoLink, CMovies and PubFilmTo
 - Add theXem integration
 - Tweak Foxx provider
 - Add Progress sort order setting

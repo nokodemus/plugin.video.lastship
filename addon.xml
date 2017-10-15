@@ -28,11 +28,11 @@
 			<screenshot>resources/screenshots/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshots/screenshot-03.jpg</screenshot>
 		</assets>
-		<news lang="de">- Provider PLocker, MyVideoLink und PubFilmTo repariert
+		<news lang="de">- Provider PLocker, MyVideoLink, CMovies und PubFilmTo repariert
 - TheXem integriert für Staffel/Episoden-Zuordnung
 - Provider Foxx, ReleaseBB aktualisiert
 - Neue Einstellung für "Fortschritt"-Sortierung</news>
-		<news lang="en">- Fixed provider PLocker, MyVideoLink and PubFilmTo
+		<news lang="en">- Fixed provider PLocker, CMovies, MyVideoLink and PubFilmTo
 - Integrated TheXem for season/episode matching
 - Updated providers Foxx, ReleaseBB
 - New user setting for "Progress" sort order</news>
