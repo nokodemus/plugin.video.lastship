@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.lastship" version="1.2.2~beta5" name="Lastship" provider-name="Lastship">
+<addon id="plugin.video.lastship" version="1.2.2~beta6" name="Lastship" provider-name="Lastship">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
 		<import addon="repository.lastship" version="1.0.1" />
@@ -32,11 +32,13 @@
 - TheXem integriert für Staffel/Episoden-Zuordnung
 - Provider Foxx, ReleaseBB aktualisiert
 - Neue Einstellung für "Fortschritt"-Sortierung
-- Darstellung der Premiumlinks angepasst</news>
+- Darstellung der Premiumlinks angepasst
+- Neue Einstellung zum Filtern von Filmen nach Jahrgang (Danke an Fire-Hawk)</news>
 		<news lang="en">- Fixed provider PLocker, CMovies, MyVideoLink and PubFilmTo
 - Integrated TheXem for season/episode matching
 - Updated providers Foxx, ReleaseBB
 - New user setting for "Progress" sort order
-- Tweak display of premium links</news>
+- Tweak display of premium links
+- New user setting to filter movies by year (Hattip to Fire-Hawk)</news>
 	</extension>
 </addon>

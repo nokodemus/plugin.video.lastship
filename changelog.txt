@@ -5,6 +5,7 @@
 - Add Progress sort order setting
 - Update provider ReleaseBB
 - Tweak display of premium links
+- Add user setting to filter movies by year (Hattip to Fire-Hawk)
 
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls
