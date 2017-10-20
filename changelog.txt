@@ -1,4 +1,4 @@
-[B]1.2.2~beta5[/B]
+[B]1.2.2~beta7[/B]
 - Fix PLocker, MyVideoLink, CMovies and PubFilmTo
 - Add theXem integration
 - Tweak Foxx provider
@@ -6,6 +6,7 @@
 - Update provider ReleaseBB
 - Tweak display of premium links
 - Add user setting to filter movies by year (Hattip to Fire-Hawk)
+- Fix Cinenator provider (Thx Philps)
 
 [B]1.2.1[/B]
 - Add providers Tinklepad, AllRls
